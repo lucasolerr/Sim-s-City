@@ -1,6 +1,6 @@
 # Projet Sim'S City ING2
 
-Bienvenue dans le projet Sim S City ING2 ! Ce projet est une simulation simple d'une ville, développée dans le cadre du cours d'informatique de deuxième année en école d'ingénieur.
+Ce projet est une simulation simple d'une ville, développée dans le cadre du cours d'informatique de deuxième année en école d'ingénieur.
 Sim'S City est une simulation de gestion urbaine où les joueurs peuvent créer et gérer leur propre ville en construisant des bâtiments, en gérant les ressources et en répondant aux besoins des habitants.
 
 ## Installation
